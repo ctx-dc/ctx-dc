@@ -7,7 +7,7 @@
 <h1 align="center">🛠️ Tools I work with</h1>
 <p align="center"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>      <img src ="https://img.shields.io/badge/QuickDB-%234ea94b.svg?&style=for-the-badge&logo=quickdb&logoColor=white"/></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaDiscord&layout=compact&hide=html" alt="Safarxi" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safarxi&layout=compact&hide=html" alt="Safarxi" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Safarxi&show_icons=true" alt="Safarxi" /></p>
 <p align="center">
