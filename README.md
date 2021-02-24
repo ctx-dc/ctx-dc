@@ -1,4 +1,4 @@
-<h1 align="center">Hey there!👋, I'm Luca.</h1>
+<h1 align="center">Hey there!👋, I'm ctx.</h1>
 <h3 align="center">I am a discord bot developer. I like to code bots and provide the most as possible for my bots | Most of my bots are run with quick.db v7.1.1 and discord.js v12.5.1</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Safarxi" alt="Safarxi" /> </p>
